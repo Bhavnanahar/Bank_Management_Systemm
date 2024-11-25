@@ -37,13 +37,17 @@ Follow the on-screen instructions:
 Enter your username and password.
 Choose either to credit or debit money from your account.
 After each transaction, view the updated balance and decide whether to continue.
+
 🧩 Code Structure
+
 bank_management_system(): This is the main function that handles the entire bank management process, from user login to transaction handling.
 Credit: Increases the balance by the specified amount.
 Debit: Decreases the balance after validating sufficient funds.
 Balance Display: Shows the updated balance after each transaction.
 Transaction Loop: Keeps the user in the system until they choose to exit.
+
 🚀 How it works:
+
 Login: The user is prompted to enter their username and password.
 Choose an Action: The user can choose between crediting or debiting money:
 Credit: Adds the specified amount to the balance.
@@ -56,5 +60,7 @@ This project is licensed under the MIT License
 
 📣 Feedback
 If you have any feedback or suggestions, please feel free to open an issue or contact us.
+mail:bhavnanahar245@gmail.com
+
 
 Made with ❤️ by Bhavna
